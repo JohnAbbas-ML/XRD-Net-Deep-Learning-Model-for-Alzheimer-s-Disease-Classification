@@ -61,6 +61,3 @@ features = model.extract_features(dummy_input)
 ```
 
 ---
-
-
-Would you like me to add those as well?
